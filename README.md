@@ -3,9 +3,9 @@
 
 🔭 **Currently:** Data Science Intern @ Innodatatics  
 🌱 **Learning:** Advanced Deep Learning  
-📫 **Reach me:** [gayalc10@gmail.com](mailto:gayalc10@gmail.com) | [LinkedIn](#)  
+📫 **Reach me:** [gayalc10@gmail.com](mailto:gayalc10@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gayal-c-ashok)  
 
-### 🚀 My Projects  
+###  My Projects  
 - [Syringe Counter (96% Accuracy)](https://github.com/gayal-c/syringe-counter)  
 - [Solar Power Prediction Model](https://github.com/gayal-c/solar-prediction)  
 - [My Portfolio Website](https://gayal.github.io)  
