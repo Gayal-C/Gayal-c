@@ -3,7 +3,7 @@
 
 🔭 **Currently:** Data Science Intern @ Innodatatics  
 🌱 **Learning:** Advanced Deep Learning  
-📫 **Reach me:** [gayalc10@gmail.com](mailto:gayalc10@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gayal-c-ashok)  
+📫 **Reach me:** [gayalc10@gmail.com](mailto:gayalc10@gmail.com) | [LinkedIn(https://www.linkedin.com/in/gayal-c-ashok)]
 
 ###  My Projects  
 - [Syringe Counter (96% Accuracy)]  
