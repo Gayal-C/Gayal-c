@@ -6,9 +6,8 @@
 📫 **Reach me:** [gayalc10@gmail.com](mailto:gayalc10@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gayal-c-ashok)  
 
 ###  My Projects  
-- [Syringe Counter (96% Accuracy)](https://github.com/gayal-c/syringe-counter)  
-- [Solar Power Prediction Model](https://github.com/gayal-c/solar-prediction)  
-- [My Portfolio Website](https://gayal.github.io)  
+- [Syringe Counter (96% Accuracy)]  
+- [Solar Power Prediction Model]   
 <!--
 **Gayal-C/Gayal-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
